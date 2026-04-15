@@ -108,14 +108,44 @@ I'm a passionate **Web Developer** with deep expertise in WordPress ecosystems, 
 
 ---
 
+## 💼 Client Portfolio — Live Websites
+
+Real websites I've built for clients across the UK, Canada, Australia, Europe, and Pakistan:
+
+<div align="center">
+
+| 🌐 Website | 🏷️ Industry | 🌍 Region |
+|:-----------|:------------|:---------|
+| [**mwwa.uk**](http://mwwa.uk/) | Muslim Welfare Association | 🇬🇧 UK |
+| [**irfanijaz.com**](https://irfanijaz.com/) | Google Search Ads Specialist | 🌐 International |
+| [**camaligrafix.com**](http://camaligrafix.com/) | Ali Grafix — Design Agency | 🇨🇦 Canada |
+| [**brewtonpk.com**](https://brewtonpk.com/) | Brewton Coffee Brand | 🇵🇰 Pakistan |
+| [**innogos.com**](https://innogos.com/) | Innogos Digital Agency | 🌐 International |
+| [**aberasconstruction.ca**](https://aberasconstruction.ca/) | Construction Specialists | 🇨🇦 Montreal |
+| [**camalibijoux.com**](https://camalibijoux.com/) | Camali's Gold & Jewelry Shop | 🌐 International |
+| [**flistar.eu**](https://flistar.eu/) | Electric Vehicle Brand | 🇪🇺 Europe |
+| [**clinicluqi.com**](https://clinicluqi.com/) | Massage & Wellness Center | 🇨🇦 Montreal |
+| [**avoragroup.com.au**](https://avoragroup.com.au/) | Design & Construction | 🇦🇺 Australia |
+| [**asteroidqa.com**](https://www.asteroidqa.com/) | Business Consulting | 🌐 International |
+| [**yeswork.shop**](https://yeswork.shop/) | Pacify Solar Lights Store | 🛒 E-Commerce |
+| [**baigassociates.live**](https://baigassociates.live/) | Visa & Work Permit Consultancy | 🌐 International |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=riasat-420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riasat-420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Riasat-420&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riasat-420&theme=tokyonight" width="49%"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=riasat-420&theme=tokyonight&hide_border=true" width="49%"/>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riasat-420&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riasat-420&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riasat-420&theme=tokyonight&utcOffset=5" width="32%"/>
 
 </div>
 
@@ -125,22 +155,9 @@ I'm a passionate **Web Developer** with deep expertise in WordPress ecosystems, 
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=riasat-420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Riasat-420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
-
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-[![ElementorForge](https://github-readme-stats.vercel.app/api/pin/?username=riasat-420&repo=Forge-HTML-to-Elementor-JSON-converter&theme=tokyonight&hide_border=true)](https://github.com/Riasat-420/Forge-HTML-to-Elementor-JSON-converter)
-
-</div>
-
-> ⚡ **ElementorForge** — Convert structured HTML to native Elementor JSON templates.  
-> Supports AI-powered page generation via Gemini, Groq & Together.ai. Built for WordPress/Elementor developers who want to stop manually re-building layouts.
 
 ---
 
@@ -149,12 +166,12 @@ I'm a passionate **Web Developer** with deep expertise in WordPress ecosystems, 
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/17VcTaZoG1/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923498088939)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadriasatali40@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/creativeconor)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@xConorGaming)
 
-**🌐 Live Projects:**
-[simtracker.net](https://simtracker.net) &nbsp;•&nbsp; [kncfoodsco.com](https://kncfoodsco.com)
+<br/>
+
+**🌐 Also visit:** &nbsp;[simtracker.net](https://simtracker.net) &nbsp;•&nbsp; [kncfoodsco.com](https://kncfoodsco.com)
 
 </div>
 
@@ -164,7 +181,7 @@ I'm a passionate **Web Developer** with deep expertise in WordPress ecosystems, 
 
 ⭐ **Always open to collaboration, new ideas, and challenging projects.**
 
-[![](https://visitcount.itsvg.in/api?id=riasat-420&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Riasat-420&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
