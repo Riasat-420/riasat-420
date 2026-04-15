@@ -1,21 +1,171 @@
-# 💫 About Me:
-# Hi, I'm Muhammad Riasat 👋<br><br>🚀 Web Developer | WordPress Expert | Elementor Pro Specialist | SaaS Builder<br><br>I’m a passionate web developer with strong experience in **WordPress development**, **custom plugins**, and **Elementor-based websites**. I enjoy building practical, scalable solutions that solve real-world problems for businesses and users.<br><br>---<br><br>## 💼 What I Do<br><br>- 🧩 WordPress Theme & Plugin Development  <br>- 🎨 Elementor Pro Custom Design & Dynamic Content  <br>- ⚙️ Custom Post Types (CPT), ACF, and Advanced Custom Fields  <br>- 🔌 API Integrations (REST APIs, RapidAPI, automation)  <br>- 🔐 Membership, Login Systems & Role-based Access  <br>- ⚡ Performance Optimization & Bug Fixing  <br>- 🛠️ SaaS Tools & Web Apps (Admin Panels, Dashboards)<br><br>---<br><br>## 🧠 Tech Stack<br><br>- **CMS:** WordPress  <br>- **Page Builders:** Elementor Pro  <br>- **Languages:** PHP, JavaScript, HTML, CSS  <br>- **Tools:** ACF, CPT UI, Rank Math, WP Mail SMTP  <br>- **Databases:** MySQL  <br>- **Other:** AJAX, REST APIs, GitHub, Hosting (Hostinger, cPanel)<br><br>---<br><br>## 🌱 Currently Working On<br><br>- SaaS-based tools (Invoice Builder, API Dashboards)  <br>- WordPress automation & no-code friendly plugins  <br>- Advanced search, filters & dynamic data systems  <br><br>---<br><br>## 📫 Connect With Me<br><br>- 🌐 Websites:  <br>  - https://simtracker.net  <br>  - https://kncfoodsco.com  <br>- 💬 Discord: https://discord.gg/creativeconor  <br>- 📺 YouTube: https://www.youtube.com/@xConorGaming  <br><br>---<br><br>⭐ Always open to collaboration, new ideas, and challenging projects.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Riasat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%E2%80%A2%20WordPress%20Expert%20%E2%80%A2%20SaaS%20Builder&descAlignY=51&descAlign=50" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17VcTaZoG1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadriasatali40@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=WordPress+%26+Elementor+Pro+Expert;Custom+Plugin+%26+Theme+Developer;SaaS+Tools+%26+API+Integrations;Always+building+something+new+%E2%9A%A1)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riasat-420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=riasat-420&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riasat-420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riasat-420&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riasat-420&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Hey, I'm Muhammad Riasat
+
+I'm a passionate **Web Developer** with deep expertise in WordPress ecosystems, Elementor Pro, and building practical SaaS tools. I turn complex ideas into clean, scalable digital products — from custom plugins to full dashboard applications.
+
+> *"I don't just build websites. I build systems that work."*
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+**🧩 WordPress Development**
+- Custom themes & plugin development
+- Elementor Pro advanced design & dynamic content
+- Custom Post Types (CPT), ACF, advanced custom fields
+- Membership systems & role-based access control
+
+</td>
+<td width="50%">
+
+**⚙️ SaaS & Web Apps**
+- Admin panels & dashboards
+- REST API & RapidAPI integrations
+- Invoice builders, dynamic search & filter systems
+- WordPress automation & no-code friendly plugins
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔐 Backend & Systems**
+- AJAX-powered dynamic data workflows
+- MySQL database architecture
+- SMTP, login flows & auth systems
+- Performance optimization & bug fixing
+
+</td>
+<td width="50%">
+
+**🎨 Design & Tooling**
+- Figma → Elementor pixel-perfect conversion
+- HTML/CSS to Elementor JSON automation
+- Canva, Adobe XD & Framer prototyping
+- Responsive UI with accessibility in mind
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Core**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**CMS & Builders**
+
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white)
+
+**Backend & Services**
+
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Design & Prototyping**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+**Dev & Hosting**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+---
+
+## 🌱 Currently Working On
+
+- ⚡ **ElementorForge** — HTML to Elementor JSON converter with AI generation
+- 📄 SaaS Invoice Builder with dynamic PDF export
+- 🔍 Advanced search & filter systems for WordPress
+- 🤖 WordPress automation plugins (no-code friendly)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riasat-420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riasat-420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=riasat-420&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=riasat-420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 📌 Featured Project
+
+<div align="center">
+
+[![ElementorForge](https://github-readme-stats.vercel.app/api/pin/?username=riasat-420&repo=Forge-HTML-to-Elementor-JSON-converter&theme=tokyonight&hide_border=true)](https://github.com/Riasat-420/Forge-HTML-to-Elementor-JSON-converter)
+
+</div>
+
+> ⚡ **ElementorForge** — Convert structured HTML to native Elementor JSON templates.  
+> Supports AI-powered page generation via Gemini, Groq & Together.ai. Built for WordPress/Elementor developers who want to stop manually re-building layouts.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/17VcTaZoG1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadriasatali40@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/creativeconor)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@xConorGaming)
+
+**🌐 Live Projects:**
+[simtracker.net](https://simtracker.net) &nbsp;•&nbsp; [kncfoodsco.com](https://kncfoodsco.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Always open to collaboration, new ideas, and challenging projects.**
+
+[![](https://visitcount.itsvg.in/api?id=riasat-420&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
